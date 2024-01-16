@@ -10,14 +10,7 @@ labels:
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/gameboy.jpg">
-
-
-
-*Future: a thing that is hard to grasp, but easy to visualize and chase after.*
-
-
-Future ICS aspirations
-	Since the moment I first got my hands on a Gameboy, my love for software has been unwavering. Throughout my ICS  journey, my interests have naturally shifted toward the dynamic realms of cybersecurity, data mining, and game development. The ever-changing landscape of cybersecurity, marked by the continuous evolution of digital threats, serves as a thrilling challenge that excites my curiosity. I am dedicated to honing skills in strengthening digital infrastructures, delving into encryption methods, conducting penetration testing, and crafting incident response strategies to enhance the resilience of systems against cyber threats.
+Since the moment I first got my hands on a Gameboy, my love for software has been unwavering. Throughout my ICS  journey, my interests have naturally shifted toward the dynamic realms of cybersecurity, data mining, and game development. The ever-changing landscape of cybersecurity, marked by the continuous evolution of digital threats, serves as a thrilling challenge that excites my curiosity. I am dedicated to honing skills in strengthening digital infrastructures, delving into encryption methods, conducting penetration testing, and crafting incident response strategies to enhance the resilience of systems against cyber threats.
 
 The allure of data mining continues to captivate me as it unveils the potential to extract valuable insights from extensive datasets. Delving into machine learning algorithms, statistical analysis, and data visualization techniques adds depth to my academic pursuits. The prospect of uncovering hidden patterns and trends within datasets and leveraging this information for informed decision-making remains a driving force in my exploration of this dynamic field.
 
