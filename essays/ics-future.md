@@ -9,7 +9,7 @@ labels:
   - Engineering
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/ics-future/gameboy.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/gameboy.jpg">
 
 
 
