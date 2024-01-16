@@ -6,10 +6,7 @@ title: "Getting My Highschool Diploma"
 date: 2018-06-01
 published: true
 labels:
-  - Location: (Leilehua Highschool)
-  - Graduation Year: 2018
-  - Graduated GPA: 3.7
-summary: " Securing my high school diploma may seem ordinary, but for me, it signifies a remarkable journey. Despite a challenging start, I emerged with a decent GPA, and this accomplishment, viewed from my current standpoint as a college junior, represents the triumph of determination over adversity. It serves as a foundation for ongoing academic pursuits, emphasizing the transformative power of perseverance. "
+summary: " Securing my high school diploma may seem ordinary, but for me, it signifies a remarkable journey. Despite a challenging start, I emerged with a decent GPA, and this accomplishment, viewed from my current standpoint as a college junior, represents a significant endeavor
 ---
 
 Reflecting on the early stages of my high school journey, I encountered academic challenges, beginning with GPAs of 2.2 and 2.7 during my freshman and sophomore years. Determined to carve a path of personal and academic growth, I embraced the ethos of hard work and dedication.
@@ -20,14 +17,3 @@ The evolution continued through my junior and senior years, where a holistic app
 
 The culmination of these efforts materialized in a noteworthy 3.7 GPA by the end of my senior year. This accomplishment not only represents an academic triumph but also underscores the invaluable lessons learned and skills acquired. As I navigate my junior year in college, I carry the lessons from high school—lessons of perseverance, adaptability, and the pursuit of excellence—shaping my journey toward continued growth and success.
 
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
-
-You can learn more at the [UH Micromouse News Announcement](https://manoa.hawaii.edu/news/article.php?aId=2857).
