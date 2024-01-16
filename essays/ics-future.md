@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-title: "The difficult things will always be difficult"
+title: "What made me Choose ICS "
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-06
+date: 2024-01-16
 published: false
 labels:
   - Engineering
@@ -11,44 +11,18 @@ labels:
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+*Future: a thing that is hard to grasp, but easy to visualize and chase after.*
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
+Joshua Sato
+1/16/24
 
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
+Future ICS aspirations
+	Since the moment I first got my hands on a Gameboy, my love for software has been unwavering. Throughout my ICS  journey, my interests have naturally shifted toward the dynamic realms of cybersecurity, data mining, and game development. The ever-changing landscape of cybersecurity, marked by the continuous evolution of digital threats, serves as a thrilling challenge that excites my curiosity. I am dedicated to honing skills in strengthening digital infrastructures, delving into encryption methods, conducting penetration testing, and crafting incident response strategies to enhance the resilience of systems against cyber threats.
 
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
+The allure of data mining continues to captivate me as it unveils the potential to extract valuable insights from extensive datasets. Delving into machine learning algorithms, statistical analysis, and data visualization techniques adds depth to my academic pursuits. The prospect of uncovering hidden patterns and trends within datasets and leveraging this information for informed decision-making remains a driving force in my exploration of this dynamic field.
 
-Here's what I think: the difficult things will always be difficult.
+On the creative front, game development serves as an outlet for seamlessly blending technology with artistic expression. Crafting immersive gameplay experiences and coding intricate game mechanics are integral aspects of my journey. Engaging in game development projects not only hones my programming skills but also fosters creativity and innovation in the design of captivating virtual worlds.
 
-## In the context of programming
+Looking ahead in my college journey, my goal is to intricately weave these three passions into a cohesive skill set. Securing hands-on experiences in cybersecurity practices, undertaking complex data mining projects, and actively contributing to the development of engaging games are the milestones I aspire to achieve. By amalgamating these diverse technical interests, I aim to carve a unique path that not only aligns with my passions but also contributes meaningfully to the ever-expanding field of technology.
 
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
-
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
-
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
-
-## In the context of engineering
-
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
-
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
-
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
-
-## In the context of relationships
-
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
-
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
-
-## Okay!
-
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
+“Note that I used ChatGPT to improve grammar and spelling in this document”
