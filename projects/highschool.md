@@ -6,6 +6,9 @@ title: "Getting My Highschool Diploma"
 date: 2018-06-01
 published: true
 labels:
+  - Leilehua-High-School
+  - Graduation:2018
+
 summary: " Securing my high school diploma may seem ordinary, but for me, it signifies a remarkable journey. Despite a challenging start, I emerged with a decent GPA, and this accomplishment, viewed from my current standpoint as a college junior, represents a significant endeavor
 ---
 
