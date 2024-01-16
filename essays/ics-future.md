@@ -6,7 +6,7 @@ title: "What made me Choose ICS "
 date: 2024-01-16
 published: true
 labels:
-  - Engineering
+  - ICS
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/gameboy.jpg">
@@ -14,10 +14,6 @@ labels:
 
 
 *Future: a thing that is hard to grasp, but easy to visualize and chase after.*
-
-
-Joshua Sato
-1/16/24
 
 
 Future ICS aspirations
