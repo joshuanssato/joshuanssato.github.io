@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/Leilehua Highschool photo.png
 title: "Graduated Highschool"
 date: 2018-06-01
 published: true
@@ -11,10 +11,6 @@ labels:
 summary: "One of my accomplishments is graduating high school with a 3.7 GPA which was a manga cum laude."
 ---
 
-<div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
 </div>
 I began my high school journey with GPAs of 2.2 and 2.7 during my freshman and sophomore years, respectively. Through unwavering hard work and dedication, I successfully elevated my academic performance and concluded my senior year with a 3.7 GPA.
 
