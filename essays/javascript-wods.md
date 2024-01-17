@@ -11,22 +11,14 @@ labels:
 
 <img width="150px" class="rounded float-start pe-4" src="../img/codingmaze.jpg">
 
-Introduction:
-Starting this coding journey with JavaScript has been a mix of interest and bewilderment. From learning its intriguing features to tackling the challenges of its flexibility, the experience has been an experience.
+Starting this coding journey with JavaScript has been a mix of interest and bewilderment. From learning its intriguing features to tackling the challenges of its flexibility, has been an experience. In terms of talking about JavaScript, its flexibility is a double-edged sword. As a novice coder, the absence of strict typing and the wide array of its features have introduced me to the world of unexpected errors. It's akin to a balancing act without a safety net.
 
-Adapting to Flexibility and Unforeseen Errors:
-JavaScript's flexibility is a double-edged sword. As a novice coder, the absence of strict typing and the wide array of its features have introduced me to the world of unexpected errors. It's akin to a balancing act without a safety net.
+I'm not much of a software but from their perspective, the language's adaptability proves advantageous but at least for me it raises concerns for larger-scale endeavors. The absence of enforced conventions can lead to confusion and misinformation. Maybe since I'm only a novice coder striking a balance between flexibility and structure seems crucial for larger applications.
 
-Considering Software Engineering Realities:
-From a software engineering perspective, the language's adaptability proves advantageous for smaller projects but raises concerns for larger-scale endeavors. The absence of enforced conventions can lead to confusion and misinformation. Striking a balance between flexibility and structure becomes a crucial consideration for robust applications.
+Workouts of the Day or (WODs) offer a real-time glimpse into coding and problem-solving, it allows the coder to provide insights into diverse programming approaches. However, viewing the WODS as part of the grading scale its high-stakes pass-or-fail nature of exercises carries a significant weight in the course, and since it adds an element of intensity and stress it may overshadow the inherent benefits.
 
-Deconstructing Workouts of the Day (WODs):
-Workouts of the Day (WODs) offer a real-time glimpse into coding and problem-solving, providing insights into diverse programming approaches. However, the high-stakes pass-or-fail nature of these exercises, each carrying significant weight in the course, adds an element of intensity that may overshadow the inherent benefits.
+WOD's skill-based evaluation amplifies the stress associated with WODs. As a student who is reliant on practice and resourcefulness, the emphasis on what seems to me like a skill check rather than an effort check can be somewhat disheartening and concerning to me. The binary pass-or-fail nature of this approach, with its potential impact on the overall course outcome of either pass-or-fail, may not fully accommodate diverse learning styles and skill levels.
 
-Navigating Stress, Evaluation, and Learning Styles:
-The stress associated with WODs is amplified by their skill-based evaluation. As a student reliant on practice and resourcefulness, the emphasis on performance rather than effort can be disheartening. The binary pass-or-fail approach, with its potential impact on the overall course outcome, may not fully accommodate diverse learning styles and skill levels.
-
-Conclusion:
-In navigating the intricacies of JavaScript, I acknowledge its strengths and challenges. Striking a balance between flexibility and structure becomes a pivotal consideration in the coding journey. While WODs offer valuable insights, a more nuanced evaluation system could contribute to a supportive learning environment, recognizing the diverse strengths and learning styles of coding enthusiasts. This journey, though demanding, promises growth and proficiency in the ever-evolving coding landscape.
+In navigating the intricacies of JavaScript, I acknowledge its strengths and challenges. Striking a balance between flexibility and structure becomes a pivotal consideration in the coding journey. While WODs offer valuable insights, a more nuanced evaluation system could contribute to a supportive learning environment, recognizing the diverse strengths and learning styles of coding students. This journey, though demanding, promises growth and proficiency in the ever-evolving coding landscape.
 
 Note " I answered all the prompts ahead then had chatgpt restructure the writing into a more professional essay."
