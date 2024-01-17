@@ -9,12 +9,13 @@ labels:
   - ICS
 ---
 
-<img width="150px" class="rounded float-start pe-4" src="../img/gameboy.jpg">
+<img width="150px" class="rounded float-start pe-4" src="../img/codingmaze.jpg">
 
-Embarking on the coding journey with JavaScript has been a mix of awe and bewilderment. From uncovering its intriguing features to wrestling with the challenges of flexibility, the experience has been a dynamic exploration of the coding landscape.
+Introduction:
+Starting this coding journey with JavaScript has been a mix of interest and bewilderment. From learning its intriguing features to tackling the challenges of its flexibility, the experience has been an experience.
 
 Adapting to Flexibility and Unforeseen Errors:
-JavaScript's touted flexibility is a double-edged sword. As a novice coder, the absence of strict typing and the wide latitude of the language have introduced me to the world of unexpected errors. It's akin to a balancing act without a safety net.
+JavaScript's flexibility is a double-edged sword. As a novice coder, the absence of strict typing and the wide array of its features have introduced me to the world of unexpected errors. It's akin to a balancing act without a safety net.
 
 Considering Software Engineering Realities:
 From a software engineering perspective, the language's adaptability proves advantageous for smaller projects but raises concerns for larger-scale endeavors. The absence of enforced conventions can lead to confusion and misinformation. Striking a balance between flexibility and structure becomes a crucial consideration for robust applications.
@@ -27,3 +28,5 @@ The stress associated with WODs is amplified by their skill-based evaluation. As
 
 Conclusion:
 In navigating the intricacies of JavaScript, I acknowledge its strengths and challenges. Striking a balance between flexibility and structure becomes a pivotal consideration in the coding journey. While WODs offer valuable insights, a more nuanced evaluation system could contribute to a supportive learning environment, recognizing the diverse strengths and learning styles of coding enthusiasts. This journey, though demanding, promises growth and proficiency in the ever-evolving coding landscape.
+
+Note " I answered all the prompts ahead then had chatgpt restructure the writing into a more professional essay."
