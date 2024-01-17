@@ -4,7 +4,7 @@ type: project
 image: img/Leilehua Highschool photo.png
 title: "GeekSquad"
 date: 2024-16-01
-published: true
+published: false
 labels:
   - "Apple Certified"
   - Consultation
