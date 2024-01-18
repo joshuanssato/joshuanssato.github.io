@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/pueogaming.png
-title: "GeekSquad"
+title: "Esports Team"
 date: 2024-16-01
 published: true
 labels:
