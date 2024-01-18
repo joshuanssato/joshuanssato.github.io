@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/pueogaming.png
+image: img/pueo.png
 title: "Collegiate Esports"
 date: 2024-16-01
 published: true
