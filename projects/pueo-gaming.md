@@ -8,7 +8,7 @@ published: true
 labels:
   - "Time Management"
   - "Team Manager"
-  - summary: "Collegiate Esports combines academic challenges with intense gaming schedules, requiring effective time management and strategic teamwork. Beyond gaming skills, it offers a holistic learning experience in project management and teamwork applicable beyond the virtual arena"
+summary: "Collegiate Esports combines academic challenges with intense gaming schedules, requiring effective time management and strategic teamwork. Beyond gaming skills, it offers a holistic learning experience in project management and teamwork applicable beyond the virtual arena"
 ---
 Being a part of an Esports team is a rollercoaster of excitement, filled with exhilarating highs and the occasional challenge. The thrill of competing on a collegiate level against schools from across the country is unmatched, and there's a unique sense of pride that comes with playing for our school and striving to establish ourselves as champions in the Esports arena. The camaraderie formed within the team further enhances the overall experience, as we unite in the pursuit of victory.
 
