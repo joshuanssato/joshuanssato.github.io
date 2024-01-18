@@ -9,7 +9,7 @@ labels:
   - "Apple Certified"
   - Consultation
   - "Hardware and Software"
-    summary: " As a Geek Squad agent, I excel in troubleshooting and resolving issues across various electronic devices, offering expert guidance on optimal use and providing repair services. My mission is to simplify technology for customers, making the role both fulfilling and valuable in the dynamic field of technology support and repair. "
+summary: " As a Geek Squad agent, I excel in troubleshooting and resolving issues across various electronic devices, offering expert guidance on optimal use and providing repair services. My mission is to simplify technology for customers, making the role both fulfilling and valuable in the dynamic field of technology support and repair. "
 ---
 In my role as a Geek Squad agent, I specialize in providing comprehensive technical assistance across a broad spectrum of electronic devices. From computers and laptops to smartphones, tablets, and even some home theater systems, I excel in troubleshooting and resolving both software and hardware issues. My expertise extends to guiding customers through the optimal use of their devices and offering valuable advice on upgrading or replacing technology based on their specific needs and budgets.
 
