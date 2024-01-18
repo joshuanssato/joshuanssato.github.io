@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/geeksquare.png
+image: img/geeksquare.jpg
 title: "GeekSquad"
 date: 2024-16-01
 published: true
