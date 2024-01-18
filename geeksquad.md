@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Leilehua Highschool photo.png
+image: img/geeksquare.png
 title: "GeekSquad"
 date: 2024-16-01
 published: false
