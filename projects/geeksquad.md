@@ -13,7 +13,6 @@ summary: " As a Geek Squad agent, I excel in troubleshooting and resolving issue
 ---
 
 <img width="300px" class="rounded float-start pe-4" src="../img/geeksquad.png">
-## Overview of My Role as a Geek Squad Agent
 In my role as a Geek Squad agent, I specialize in providing a vast array of technical assistance, encompassing a wide range of electronic devices. My expertise extends across computers, laptops, smartphones, tablets, and even home theater systems. I excel in troubleshooting and resolving both software and hardware issues, ensuring that customers receive comprehensive support for their diverse technological needs.
 
 ## Repair Services for Diverse Electronics
