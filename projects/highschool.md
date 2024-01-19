@@ -11,7 +11,7 @@ labels:
 summary: "Securing my high school diploma may seem ordinary, but for me, it signifies a remarkable journey. Despite a challenging start, I emerged with a decent GPA, and this accomplishment, viewed from my current standpoint as a college junior, represents a significant endeavor."
 ---
 
-<img class="img-fluid" src="../img/header.jpg">
+<img width="300px" class="rounded float-start pe-4" src="../img/header.jpg">
 
 Reflecting on the early stages of my high school journey, I encountered academic challenges, beginning with GPAs of 2.2 and 2.7 during my freshman and sophomore years. Determined to carve a path of personal and academic growth, I embraced the ethos of hard work and dedication.
 
