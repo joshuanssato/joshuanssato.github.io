@@ -6,7 +6,8 @@ title: " Navigating the JavaScript Labyrinth: A New Coder's Odyssey "
 date: 2024-01-16
 published: true
 labels:
-  - ICS
+  - Software Engineering
+  - Learning
 ---
 
 <img width="150px" class="rounded float-start pe-4" src="../img/codingmaze.jpg">
