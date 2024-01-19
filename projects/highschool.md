@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/Leilehua Highschool photo.png
-title: "Getting My Highschool Diploma"
+title: "Overcoming Academic Hurdles"
 date: 2018-06-01
 published: true
 labels:
@@ -12,10 +12,6 @@ summary: "Securing my high school diploma may seem ordinary, but for me, it sign
 ---
 
 <img width="300px" class="rounded float-start pe-4" src="../img/header.jpg">
-
-
-## Overcoming Academic Hurdles: A Journey from Dislike to Triumph
-Initial Struggles: Hatred for School and Skipping Classes
 In the early stages of my high school journey, I faced a formidable challenge as I harbored a strong dislike for school, leading to a tendency to skip classes and not turn in any schoolwork. This negative attitude was reflected in my academic performance, with initial GPAs of 2.2 and 2.5 during my freshman and sophomore years. The lack of engagement and motivation created a significant hurdle in my educational path.
 
 ## Catalysts for Change: Determination to Grow
