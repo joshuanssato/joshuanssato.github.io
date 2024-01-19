@@ -11,7 +11,8 @@ labels:
 summary: "Collegiate Esports combines academic challenges with intense gaming schedules, requiring effective time management and strategic teamwork. Beyond gaming skills, it offers a holistic learning experience in project management and teamwork applicable beyond the virtual arena"
 ---
 
-<img class="img-fluid" src="../img/pueo2.png">
+<img width="150px" class="rounded float-start pe-4" src="../img/pueo2.png">
+
 Being a part of an Esports team is a rollercoaster of excitement, filled with exhilarating highs and the occasional challenge. The thrill of competing on a collegiate level against schools from across the country is unmatched, and there's a unique sense of pride that comes with playing for our school and striving to establish ourselves as champions in the Esports arena. The camaraderie formed within the team further enhances the overall experience, as we unite in the pursuit of victory.
 
 However, this thrilling journey comes with its share of complexities, notably the delicate balance of being a full-time student while actively participating in tournaments and committing to 3-4 practice days. This dual commitment not only tests our gaming skills but also serves as a crash course in effective time management and project coordination. Juggling academic responsibilities with Esports demands a strategic approach to ensure success in both arenas.
