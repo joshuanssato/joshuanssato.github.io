@@ -6,7 +6,10 @@ title: " Embracing the Digital Odyssey: A love born from a Gameboy"
 date: 2024-01-16
 published: true
 labels:
-  - ICS
+  - Software Engineering
+  - Cyber Security
+  - Data Mining
+  - Game Development
 ---
 
 <img width="150px" class="rounded float-start pe-4" src="../img/gameboy.jpg">
