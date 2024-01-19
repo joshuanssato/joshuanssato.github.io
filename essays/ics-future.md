@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: " Embracing the Digital Odyssey "
+title: " Embracing the Digital Odyssey: A love born from a Gameboy"
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-16
 published: true
@@ -11,7 +11,6 @@ labels:
 
 <img width="150px" class="rounded float-start pe-4" src="../img/gameboy.jpg">
 
-## A Love Born with a Gameboy
 Since the moment I first laid hands on a Gameboy, my unwavering love for software and gaming has been a guiding force. Throughout my ICS journey, my interests have organically shifted towards the dynamic realms of cybersecurity, data mining, and game development.
 
 ## Cybersecurity: Navigating Digital Threats
