@@ -10,7 +10,6 @@ labels:
 ---
 
 <img width="150px" class="rounded float-start pe-4" src="../img/codingmaze.jpg">
-## The start of my Journey
 Commencing my coding journey with JavaScript has been a fascinating blend of interest and bewilderment. Unraveling its intriguing features while grappling with the challenges posed by its flexibility has shaped an experiential learning curve. In delving into the intricacies of JavaScript, its flexibility emerges as a double-edged sword. As a novice coder, the absence of strict typing and an extensive array of features introduced me to a realm of unexpected errors. It feels like a delicate balancing act without a safety net.
 
 ## Workouts of the Day: Real-Time Insights and High-Stakes Challenges
