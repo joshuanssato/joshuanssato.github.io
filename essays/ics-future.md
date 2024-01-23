@@ -29,4 +29,6 @@ Looking ahead in my journey, my goal is to intricately weave these three passion
 
 In this multifaceted journey, I envision myself not just as a coder but as a storyteller, weaving narratives through secure digital landscapes, extracting tales from intricate datasets, and crafting immersive experiences that captivate and inspire in the realm of game development. As I navigate through the intersection of cybersecurity, data mining, and game development, each challenge becomes a stepping stone toward a holistic understanding of the intricate tapestry that is software Wonderland. This journey, marked by passion and purpose, is my contribution to the ever-evolving landscape of computer science.
 
-“Note that I used ChatGPT to improve grammar and spelling in this document”
+<hr>
+
+###### Note: ChatGPT assisted in writing this essay with sentence structure and grammar.
