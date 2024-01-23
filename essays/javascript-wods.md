@@ -24,5 +24,6 @@ While WODs offer valuable insights, reevaluating the grading system to incorpora
 
 As the semester progresses, I anticipate gaining a deeper understanding of JavaScript and its applications in software engineering and web development. Despite the daunting nature of this new venture, I look forward to learning and utilizing JavaScript to its fullest extent. The challenges and stressors encountered along the way serve as stepping stones toward a more comprehensive understanding of JavaScript and coding principles, promising growth and proficiency in the ever-evolving coding landscape. This coding journey, though demanding, holds the potential for a fulfilling and rewarding experience in the world of programming.
 
+<hr>
 
-Note " I used chatgpt for the titles as well as fixing some of my grammar and spelling."
+###### Note: ChatGPT assisted in writing this essay with sentence structure and grammar.
