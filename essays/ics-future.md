@@ -31,4 +31,4 @@ In this multifaceted journey, I envision myself not just as a coder but as a sto
 
 <hr>
 
-###### Note: ChatGPT assisted in writing this essay with sentence structure and grammar.
+###### Note: ChatGPT was used in fixing my grammar and spelling.
