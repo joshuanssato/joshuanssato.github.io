@@ -12,13 +12,15 @@ summary: "Securing my high school diploma may seem ordinary, but for me, it sign
 ---
 
 <img width="300px" class="rounded float-start pe-4" src="../img/header.jpg">
-In the early stages of my high school journey, I faced a formidable challenge as I harbored a strong dislike for school, leading to a tendency to skip classes and not turn in any schoolwork. This negative attitude was reflected in my academic performance, with initial GPAs of 2.2 and 2.5 during my freshman and sophomore years. This lack of engagement and motivation created a significant hurdle in my educational journey.
 
-## Catalysts for Change: Determination to Grow
-Realizing the need for change, I made a conscious decision to shift my mindset. I was determined to carve a path to personal and academic growth, I began to embrace the mindset of hard work and dedication, and this marked a shift in my approach, serving as a catalyst for resilience in the face of academic challenges.
+In the early stages of my high school journey, I faced a significant challenge—an intense dislike for school. This translated into a habit of skipping classes and neglecting schoolwork, casting a shadow on my academic performance. This result was reflected in my initial GPAs of 2.2 and 2.5 during my freshman and sophomore years, creating a substantial hurdle in my pursuit of a career in Information and Computer Science (ICS).
 
-## Triumph in Adversity: A Noteworthy 3.7 GPA
-These efforts did not go unnoticed by the end of my senior year I managed to finish my high school career with a  noteworthy 3.7 GPA. This showcased my academic triumph but also signified that I made a real shift toward bettering my education. Overcoming the challenges of hating school and skipping classes, I emerged stronger, armed with a newfound commitment to my academic excellence.
+## Catalysts for Change: A Determined Shift
+Recognizing the pressing need for transformation, I consciously decided to reshape my mindset. Driven by my determination toward an ICS career, I needed to chart a new course for personal and academic growth. This transformation began with the adoption of a mindset characterized by hard work and dedication, marking a fundamental shift in my approach to education.
 
-Lifelong Lessons: Transformative Growth
-As I navigate my junior year in college, I carry with me the profound lessons learned during my transformation from disliking school to academic triumph. The experiences of hating school and skipping classes have become guiding principles of perseverance, adaptability, and continuous growth, shaping my journey toward continued success and personal development.
+## Triumph in Adversity: A Newfound GPA
+As the subsequent years unfolded, I witnessed a gradual improvement in my GPA—an affirmation that my efforts were not in vain. By the end of my senior year, I celebrated the culmination of my hard work, finishing high school with a noteworthy 3.7 GPA. This accomplishment not only marked an academic triumph but also symbolized a genuine shift toward the enhancement of my education. Overcoming the challenges of disliking school and skipping classes, I emerged stronger, armed with a newfound commitment to academic excellence in the realm of ICS.
+
+## Lifelong Lessons: Transformative Growth
+Embarking on my junior year in college, I carry with me the invaluable lessons gleaned during my transformative journey from school aversion to academic triumph. The experiences of disliking school and skipping classes have transformed into guiding principles—lessons of perseverance, adaptability, and continuous growth. These principles shape my ongoing odyssey toward success and personal development in the dynamic field of Information and Computer Science. This narrative stands as a testament to the transformative power inherent in determination and resilience, especially in the face of academic challenges.
+
