@@ -23,7 +23,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript",]
+      "keywords": [ "C", "C++", "Java", "Javascript"]
     },
     {
       "name": "Toolsets/OS",
@@ -37,7 +37,11 @@
       "studyType": "B.S.",
       "startDate": "2022-09-01",
       "endDate": "Present",
-      "courses": [ "ICS 314 Object-oriented Software Engineering \n ICS 311 Object-oriented Software Engineer"]
+      "courses": [
+        "ICS 314",
+        "ICS 311",
+        "ICS 212"
+      ]
     }
   ],
   "work": [
