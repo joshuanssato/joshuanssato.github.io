@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: " Navigating the JavaScript Labyrinth: A New Coder's Odyssey "
+title: " Navigating the JavaScript Labyrinth "
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-16
 published: true
