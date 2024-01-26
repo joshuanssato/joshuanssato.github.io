@@ -22,9 +22,13 @@ In the realm of question formulation, the guide provides nuanced advice on selec
 
 ## Breaking Down a User's Question: Is This a Smart Question?
 
-Title: "Download a file with Android, and showing the progress in a ProgressDialog"
+Ex: 
+
+"Download a file with Android, and showing the progress in a ProgressDialog"
 
 "I am trying to write a simple application that gets updated. For this I need a simple function that can download a file and show the current progress in a ProgressDialog. I know how to do the ProgressDialog, but I'm not sure how to display the current progress and how to download the file in the first place."
+
+<hr>
 
 After examining the user's question, it reveals a clear intent to develop an application with specific functionality. While the question is articulate in its objective, it falls short of embodying the characteristics of a smart question. It needs to demonstrate prior effort, specify crucial details such as the programming language and platform (e.g., Android), and provide limited insights into the file download process. Proposing a refined version that includes information about efforts made, specifies the exact model and platform, and explicitly seeks guidance with potential code snippets becomes pivotal. This revised approach aims to not only showcase the user's initiative but also to provide essential context for more accurate responses while explicitly requesting actionable guidance for the identified challenges.
 
