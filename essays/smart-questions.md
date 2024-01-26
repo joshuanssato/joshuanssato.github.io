@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Asking Technical Questions in Open-Source Communities: A Dive into Eric Steven Raymond's Guide"
+title: "What Are Smart Questions?"
 # All dates must be YYYY-MM-DD format!
 date: 2015-09-08
 published: true
@@ -11,7 +11,7 @@ labels:
   - StackOverflow
 ---
 <img width="300px" class="rounded float-start pe-4" src="../img/sq3.jpg">
-Eric Steven Raymond's guide serves as a compass for those traversing the intricate landscape of technical queries within hacking and open-source communities. The document accentuates the importance of aligning question formulation with community preferences, acknowledging the voluntary nature of assistance, and showcasing the need for efficiency in addressing questions presented by the community. In this, we delve into the guide's key principles and evaluate their application to a user's question, unearthing insights into effective questioning strategies.
+In Eric Steven Raymond's guide, he answered this question. His guide serves as a compass for traversing the technical questions landscape, he talks about what you should and shouldn't do when asking questions in open-source communities. His guide showcases the importance of aligning question formulation with community preferences, acknowledging the voluntary nature of assistance, and showcasing the need for efficiency in addressing questions presented by the community. In this, we delve into the guide's key principles and evaluate their application to a user's question, unearthing insights into effective questioning strategies.
 
 ## Preparation: The Foundation of Smart Questions
 The guide places a significant emphasis on thorough preparation before posing questions. It advocates for a proactive approach, urging users to engage in self-help by consulting various resources—archives, web searches, manuals, and FAQs. Seeking advice from knowledgeable peers is encouraged, fostering a culture of collaboration and shared learning among community members. This preparatory phase lays the foundation for smart questions, reflecting an individual's commitment to active engagement with available information.
