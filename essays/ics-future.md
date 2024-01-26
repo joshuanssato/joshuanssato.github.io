@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: " Embracing the Digital Odyssey: A love born from a Gameboy"
+title: " Embracing My ICS Journey"
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-16
 published: true
