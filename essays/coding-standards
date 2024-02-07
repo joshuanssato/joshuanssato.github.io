@@ -11,28 +11,20 @@ labels:
   - StackOverflow
 ---
 <img width="300px" class="rounded float-start pe-4" src="../img/code1.jpeg">
-In Eric Steven Raymond's guide, he answered this question. His guide serves as a compass for traversing the technical questions landscape, he talks about what you should and shouldn't do when asking questions in open-source communities. His guide showcases the importance of aligning question formulation with community preferences, acknowledging the voluntary nature of assistance, and showcasing the need for efficiency in addressing questions presented by the community. In this, we delve into the guide's key principles and evaluate their application to a user's question, unearthing insights into effective questioning strategies.
+Having a baseline coding standard that everyone can understand and follow is crucial, especially in large projects with multiple contributors. However, I also see the value in allowing individuals to code according to their preferences. 
 
-## Preparation: The Foundation of Smart Questions
-The guide places a significant emphasis on thorough preparation before posing questions. It advocates for a proactive approach, urging users to engage in self-help by consulting various resources—archives, web searches, manuals, and FAQs. Seeking advice from knowledgeable peers is encouraged, fostering a culture of collaboration and shared learning among community members. This preparatory phase lays the foundation for smart questions, reflecting an individual's commitment to active engagement with available information.
+## Diversity in Coding Styles
+We as humans are diverse, and our coding styles reflect this diversity. Some developers may prefer ample whitespace and line breaks for readability, while others may opt for a more compact and concise approach. In the broader context of software development, these differences in coding style shouldn't be overly emphasized or enforced, as long as the code remains comprehensible and functional. Ultimately, that is what matters most is the effectiveness and maintainability of the codebase, rather than adhering to a single coding standard.
 
-## Crafting Questions: Art and Science
-In the realm of question formulation, the guide provides nuanced advice on selecting an appropriate forum and tailoring questions to fit the expertise of the chosen community. It emphasizes the significance of respecting community norms and understanding unique cultures and expectations within hacking and open-source communities. A caution against overwhelming multiple channels with the same question emerges as a practical insight, considering the constraints faced by volunteers in terms of time and resources. This highlights the need for users to be mindful of the community's capacity for efficient assistance.
+## Challenges with ESLint
+Regarding the use of tools like ESLint, while they can be beneficial for ensuring code quality and consistency, they can also introduce friction into the development process. Constant notifications and red marks can be distracting and disrupt the flow of coding. It would be preferable if ESLint could be configured to run only upon request, rather than continuously flagging potential issues. Additionally, the automatic marking of newly created functions or variables as unused can be irksome, as some variables might be in the process of implementation or might be used later in the code.
 
+## Integrating IntelliJ with GitHub Desktop
+Integrating development environments like IntelliJ with version control systems such as GitHub Desktop can also present challenges. The repetitive nature of committing and pushing changes to the main branch can become tedious over time, particularly in fast-paced development environments where we need to frequently fix things. Also finding ways to streamline this process and reduce this headache would improve my overall productivity and workflow efficiency.
 
-## Breaking Down a User's Question: Is This a Smart Question?
+## Addressing Environment Discrepancies
+Lastly, encountering discrepancies in behavior between different environments, such as underscore functions working in the Chrome browser but not in IntelliJ, was very irksome it made me confused and ultimately frustrated. I now know that we do not need to have underscore working in IntelliJ for the assignments but knowing that it doesnt confuses and irritates me. 
 
-Ex: 
-
-"Download a file with Android, and showing the progress in a ProgressDialog"
-
-"I am trying to write a simple application that gets updated. For this I need a simple function that can download a file and show the current progress in a ProgressDialog. I know how to do the ProgressDialog, but I'm not sure how to display the current progress and how to download the file in the first place."
-
-<hr>
-
-After examining the user's question, it reveals a clear intent to develop an application with specific functionality. While the question is articulate in its objective, it falls short of embodying the characteristics of a smart question. It needs to demonstrate prior effort, specify crucial details such as the programming language and platform (e.g., Android), and provide limited insights into the file download process. Proposing a refined version that includes information about efforts made, specifies the exact model and platform, and explicitly seeks guidance with potential code snippets becomes pivotal. This revised approach aims to not only showcase the user's initiative but also to provide essential context for more accurate responses while explicitly requesting actionable guidance for the identified challenges.
-
-In conclusion, Eric Steven Raymond's guide is a valuable companion, offering principles that guide individuals through the intricacies of seeking technical help within the collaborative environments of hacking and open-source communities. The examination of a user's question further highlights the practical application of these principles, shedding light on the dynamics of effective questioning strategies.
 
 <hr>
 
