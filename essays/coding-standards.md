@@ -6,9 +6,9 @@ title: " Why Do We Need Coding Standards? "
 date: 2024-02-06
 published: true
 labels:
-  - Questions
-  - Answers
-  - StackOverflow
+  - Coding-Standards
+  - Java-Script
+  - ESLint
 ---
 <img width="300px" class="rounded float-start pe-4" src="../img/code1.jpeg">
 Establishing a baseline coding standard is not just a best practice; it's a fundamental baseline, particularly in the context of large-scale software projects where numerous developers are collaborating. A standardized approach to coding ensures consistency, readability, and maintainability across the codebase, which are essential factors for long-term project success. By defining a set of guidelines and conventions that all contributors adhere to, teams can minimize confusion, reduce errors, and streamline the development process.
