@@ -11,7 +11,7 @@ labels:
   - CSS
 ---
 
-<img width="150px" class="rounded float-start pe-4" src="../img/bootstrap5.png>
+<img width="150px" class="rounded float-start pe-4" src="../img/img/bootstrap5.png">
 In the vast landscape of web development, where every pixel counts and every interaction matters, the choice of tools can make all the difference between a cumbersome, error-prone process and a streamlined, efficient workflow. Among the plethora of tools available to developers, UI frameworks stand out as indispensable companions in crafting modern, visually appealing web experiences. But why should one invest time and effort in mastering these frameworks when raw HTML and CSS seem readily available? Let’s find out that answer together.
 
 ## The Complexity Conundrum: Taming the Web’s Wildness
