@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: " Why is Bootstrap5 Useful? "
+title: " Let's Talk about Bootstrap5 "
 # All dates must be YYYY-MM-DD format!
 date: 2024-02-22
 published: true
