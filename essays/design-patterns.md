@@ -10,7 +10,7 @@ labels:
   - Java-Script
   - ESLint
 ---
-<img width="300px" class="rounded float-start pe-4" src="../img/code1.jpeg">
+<img width="300px" class="rounded float-start pe-4" src="../img/latour.jpg">
 
 Imagine yourself in the vast software development landscape as an architect tasked with constructing a humongous skyscraper. As you start on this monumental project, you're armed with a toolbox filled with an assortment of tools, each serving a specific purpose to streamline your construction process and ensure the stability and longevity of your creation. These tools are akin to design patterns in the realm of software engineering.
 
