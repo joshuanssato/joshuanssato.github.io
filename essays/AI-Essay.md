@@ -11,7 +11,7 @@ labels:
   - ICS 314
   - Software-Engineer
 ---
-<img width="300px" class="rounded float-start pe-4" src="../img/code1.jpeg">
+<img width="300px" class="rounded float-start pe-4" src="../img/ai.jpg">
 
 ## I. Introduction
 
