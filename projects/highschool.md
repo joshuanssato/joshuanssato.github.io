@@ -4,7 +4,7 @@ type: project
 image: img/Leilehua Highschool photo.png
 title: "Overcoming Academic Hurdles"
 date: 2018-06-01
-published: true
+published: false
 labels:
   - "Leilehua high school"
   - GPA:3.7
