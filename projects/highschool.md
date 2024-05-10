@@ -3,6 +3,7 @@ layout: project
 type: project
 image: img/Leilehua Highschool photo.png
 title: "Overcoming Academic Hurdles"
+# All dates must be YYYY-MM-DD format!
 date: 2018-06-01
 published: true
 labels:
