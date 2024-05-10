@@ -11,7 +11,7 @@ labels:
   - CSS
 ---
 
-<img width="250px" class="rounded float-start pe-4" src="../img/bootstrap5.png">
+<img width="250px" class="rounded float-start pe-4" src="../img/Engineering.png">
 
 In the vast landscape of software engineering, mastering fundamental concepts is akin to equipping oneself with a diverse array of tools. It’s essential for crafting robust and scalable solutions. Among these tools are coding standards and design patterns, each playing a crucial role in the software development process. Let's explore how these concepts extend beyond web application development and into the broader realm of software engineering.
 
