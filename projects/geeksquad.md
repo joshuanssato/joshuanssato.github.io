@@ -4,7 +4,7 @@ type: project
 image: img/geeksquare.jpg
 title: "GeekSquad"
 # All dates must be YYYY-MM-DD format!
-date: 2024-16-01
+date: 2024-01-16
 published: true
 labels:
   - "Apple Certified"
